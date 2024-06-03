@@ -1,0 +1,21 @@
+(cl:defpackage webots_demo-msg
+  (:use )
+  (:export
+   "<BOOLSTAMPED>"
+   "BOOLSTAMPED"
+   "<FLOAT64STAMPED>"
+   "FLOAT64STAMPED"
+   "<GOALNAME>"
+   "GOALNAME"
+   "<INT32STAMPED>"
+   "INT32STAMPED"
+   "<INT8STAMPED>"
+   "INT8STAMPED"
+   "<RADARTARGET>"
+   "RADARTARGET"
+   "<RECOGNITIONOBJECT>"
+   "RECOGNITIONOBJECT"
+   "<STRINGSTAMPED>"
+   "STRINGSTAMPED"
+  ))
+

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "8e6b64242871e1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "306178f003191e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ccafbff0c3a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7288a29020708b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc164d6721bff2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c48b28591581046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc3b359ae01dc0e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3230c254e95818f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "890d22eb3f1dc0e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "04686eeca9dec6a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37dc35f135e3fc27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b74101c943807a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef266a1b37a3f95a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be930cad9c4ca6ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "48ccafbff0c3a9fa",
+  "lastOpenFiles": [
+    "catkin_ws/devel/share/webots_ros/cmake/webots_rosConfig.cmake",
+    "catkin_ws/devel/share/webots_ros/cmake/webots_rosConfig-version.cmake",
+    "catkin_ws/devel/share/webots_ros/cmake/webots_ros-msg-extras.cmake",
+    "catkin_ws/devel/share/webots_ros/cmake/webots_ros-msg-paths.cmake",
+    "catkin_ws/devel/share/webots_ros/cmake",
+    "catkin_ws/devel/share/webots_ros",
+    "catkin_ws/devel/share/webots_demo/cmake/webots_demoConfig-version.cmake",
+    "catkin_ws/devel/share/webots_demo/cmake/webots_demoConfig.cmake",
+    "catkin_ws/devel/share/webots_demo/cmake/webots_demo-msg-paths.cmake",
+    "catkin_ws/devel/share/webots_demo/cmake/webots_demo-msg-extras.cmake",
+    "catkin_ws/devel/share/webots_demo/cmake",
+    "catkin_ws/src/webots_ros/README.md",
+    "catkin_ws/src/webots_demo/README.md",
+    "catkin_ws/src/webots_demo/6.png",
+    "catkin_ws/src/webots_demo/2-2.gif",
+    "Image/Desktop 2024.06.03 - 15.02.26.01.gif",
+    "README.md",
+    "Image/Pasted image 20240424202045 - 副本.png",
+    "Image/Pasted image 20240424202024 - 副本.png",
+    "Image/Pasted image 20231102124447 - 副本.png",
+    "Image/Pasted image 20240424202108 - 副本.png",
+    "Image/v2-cbba36932408a6f562a3e550644a33d4_720w.webp",
+    "Image/v2-a9a85ed5d6e59af9ac975952791052fb_720w.webp",
+    "Image/v2-8df9ade1b236a2aeab201ea1afe2e808_720w.webp"
+  ]
+}
