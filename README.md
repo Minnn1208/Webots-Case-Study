@@ -53,8 +53,11 @@ sudo apt install ros-noetic-teb-local-planner
 ```
 
 **后面就请仔细阅读**[GitHub - JackyMao1999/webots\_demo: ROS联合webots实战案例](https://github.com/JackyMao1999/webots_demo)
+
 **认真阅读文档内容**后执行操作方法的（2. 命令行进入`catkin_ws/src`）以后的就内容好
+
 至于**链接内的cartographer**如果只用本教程的演示的建图算法**可以选择不安装**
+
 如果想尝试可以回到[一键安装&&配置环境变量](https://github.com/Minnn1208/Webots-Case-Study?tab=readme-ov-file#%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)执行一键傻瓜式安装命令，可以减少很多报错的麻烦，应该是选9好就能安装了
 
 执行
