@@ -11,6 +11,16 @@
             "id": "48ccafbff0c3a9fa",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/bbb50167-152a-4d47-baea-f8004f827ad7.gif"
+              }
+            }
+          },
+          {
+            "id": "7f14b5993c019824",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +157,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48ccafbff0c3a9fa",
+  "active": "7f14b5993c019824",
   "lastOpenFiles": [
+    "Image/f59b23e8-7918-4369-a314-3644bced02f9.gif",
+    "README.md",
+    "Image/Pasted_image_20240603151313.png",
+    "Image/bbb50167-152a-4d47-baea-f8004f827ad7.gif",
+    "Image/Desktop_2024.06.03_15.02.26.01.gif",
+    "Image/Pasted_image_20240603151023.png",
+    "Image/Pasted_image_20240603150135.png",
+    "Image/Pasted_image_20240603145431.png",
+    "Image/Pasted_image_20240603145232.png",
+    "Image/Pasted_image_20240603145148.png",
+    "Image/Pasted_image_20240603145004.png",
+    "image.md",
     "catkin_ws/devel/share/webots_ros/cmake/webots_rosConfig.cmake",
     "catkin_ws/devel/share/webots_ros/cmake/webots_rosConfig-version.cmake",
     "catkin_ws/devel/share/webots_ros/cmake/webots_ros-msg-extras.cmake",
@@ -158,19 +181,7 @@
     "catkin_ws/devel/share/webots_demo/cmake/webots_demoConfig.cmake",
     "catkin_ws/devel/share/webots_demo/cmake/webots_demo-msg-paths.cmake",
     "catkin_ws/devel/share/webots_demo/cmake/webots_demo-msg-extras.cmake",
-    "catkin_ws/devel/share/webots_demo/cmake",
     "catkin_ws/src/webots_ros/README.md",
-    "catkin_ws/src/webots_demo/README.md",
-    "catkin_ws/src/webots_demo/6.png",
-    "catkin_ws/src/webots_demo/2-2.gif",
-    "Image/Desktop 2024.06.03 - 15.02.26.01.gif",
-    "README.md",
-    "Image/Pasted image 20240424202045 - 副本.png",
-    "Image/Pasted image 20240424202024 - 副本.png",
-    "Image/Pasted image 20231102124447 - 副本.png",
-    "Image/Pasted image 20240424202108 - 副本.png",
-    "Image/v2-cbba36932408a6f562a3e550644a33d4_720w.webp",
-    "Image/v2-a9a85ed5d6e59af9ac975952791052fb_720w.webp",
-    "Image/v2-8df9ade1b236a2aeab201ea1afe2e808_720w.webp"
+    "catkin_ws/src/webots_demo/README.md"
   ]
 }

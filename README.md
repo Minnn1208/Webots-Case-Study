@@ -42,7 +42,7 @@ catkin_make
 
 ---
 # 启动
-![[Pasted image 20240527160241.png]]
+![](./Image/Pasted_image_20240527160241.png)
 
 打开三个终端
 每个终端都要先执行一句
@@ -64,10 +64,11 @@ rosrun  webots_demo demo_2dnav_move
 ```
 
 意思就是
-![[Pasted image 20240603143331.png]]
+![](./Image/Pasted_image_20240603143331.png)
 这里的source ./devel/setup.bash可以省略
-![[Pasted image 20240603143359.png]]
-![[Pasted image 20240603143419.png]]
+![](./Image/Pasted_image_20240603143359.png)
+![](./Image/Pasted_image_20240603143419.png)
+
 就能启动了
 后续的扫图操作其实也差不多的
 
@@ -79,13 +80,15 @@ rosrun  webots_demo demo_2dnav_move
 ## 前置工作
 1. 先建好地图
 2. 将地图放在worlds文件夹下
-	![[Pasted image 20240603144730.png]]我的地图名字叫room.wbt，你们命名随意记住啥名字就好
+	![](./Image/Pasted_image_20240603144730.png)
+	我的地图名字叫room.wbt，你们命名随意记住啥名字就好
 3. 更换webots打开的默认地图
-	![[Pasted image 20240603145004.png]]打开launch文件夹下的webots.launch文件![[Pasted image 20240603145232.png]]这里就替换你的地图文件名就好
+	![](./Image/Pasted_image_20240603145004.png)打开launch文件夹下的webots.launch文件![](./Image/Pasted_image_20240603145232.png)这里就替换你的地图文件名就好
 
 ## 开始扫图
 跟前面的启动差不多，我在这里再重复一遍吧
-![[Pasted image 20240603145431.png]]
+![](./Image/Pasted_image_20240603145431.png)
+
 在工作空间下开三个终端，三个终端分别输入
 第一个
 ``` shell
@@ -103,9 +106,10 @@ rosrun  webots_demo velocity_keyboard_v2
 ```
 
 输入完第二个的时候就可以看到一下效果
-![[Pasted image 20240603150135.png]]
+![](./Image/Pasted_image_20240603150135.png)
 输入完第三个
-![[Desktop 2024.06.03 - 15.02.26.01.gif]]
+![](./Image/bbb50167-152a-4d47-baea-f8004f827ad7.gif)
+
 就可以通过键盘方向键来控制机器人的移动
 
 **特别注意：
@@ -119,14 +123,14 @@ rosrun  webots_demo velocity_keyboard_v2
 cd src/webots_demo/config/
 rosrun map_server map_saver -f map
 ```
-![[Pasted image 20240603151023.png]]
+![](./Image/Pasted_image_20240603151023.png)
 这样就能保存扫过的地图了
 推荐再重复一次从开始扫图那里的步骤，会更加精准，一下是我扫完地图后的文件
-![[Pasted image 20240603151313.png]]
+![](./Image/Pasted_image_20240603151313.png)
 **特别注意：保存完地图的时候，一定要记得保存webots场景，他可能会提醒你要覆盖掉原来的场景，那就覆盖掉，因为保存的时候rviz也会保存机器人在rviz的坐标，如果不保存webots场景，那么webots和rviz的机器人的坐标会不一致（虽然扫图的时候看起来不一样），反正就是扫图结束以后就记得webots保存就好！！！**
 
 ## 启动观看成果
-插入gif
+![](./Image/f59b23e8-7918-4369-a314-3644bced02f9.gif)
 第一步先点绿色的让它周围的红色箭头集中
 第二部就点紫色的他就能自动到那个地方了
 导航到自己想到的地方后，一切都成功了
