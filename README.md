@@ -31,9 +31,30 @@ sudo apt-get install git
 ``` shell
 git clone https://github.com/cyberbotics/webots_ros.git
 ```
-后面就根据
-[GitHub - JackyMao1999/webots\_demo: ROS联合webots实战案例](https://github.com/JackyMao1999/webots_demo)
-这里面的执行就好
+这里再附上一些需要安装的包
+``` shell
+sudo apt install ros-noetic-gmapping
+```
+
+``` shell
+sudo apt-get install ros-noetic-amcl
+```
+
+``` shell
+sudo apt install ros-noetic-map-server
+```
+
+``` shell
+sudo apt install ros-noetic-move-base
+```
+
+``` shell
+sudo apt install ros-noetic-teb-local-planner
+```
+
+**后面就请仔细阅读**[GitHub - JackyMao1999/webots\_demo: ROS联合webots实战案例](https://github.com/JackyMao1999/webots_demo)
+**认真阅读文档内容**后执行操作方法的（2. 命令行进入`catkin_ws/src`）以后的就内容好
+
 执行
 ``` shell
 catkin_make
