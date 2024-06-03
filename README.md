@@ -145,9 +145,12 @@ cd src/webots_demo/config/
 rosrun map_server map_saver -f map
 ```
 ![](./Image/Pasted_image_20240603151023.png)
+
 这样就能保存扫过的地图了
 推荐再重复一次从开始扫图那里的步骤，会更加精准，一下是我扫完地图后的文件
+
 ![](./Image/Pasted_image_20240603151313.png)
+
 **特别注意：保存完地图的时候，一定要记得保存webots场景，他可能会提醒你要覆盖掉原来的场景，那就覆盖掉，因为保存的时候rviz也会保存机器人在rviz的坐标，如果不保存webots场景，那么webots和rviz的机器人的坐标会不一致（虽然扫图的时候看起来不一样），反正就是扫图结束以后就记得webots保存就好！！！**
 
 ## 启动观看成果
