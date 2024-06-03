@@ -88,7 +88,7 @@ rosrun  webots_demo demo_2dnav_move
 
 ![](./Image/Pasted_image_20240603143331.png)
 
-这里的source ./devel/setup.bash可以省略
+roscore这里的source ./devel/setup.bash可以省略
 ![](./Image/Pasted_image_20240603143359.png)
 ![](./Image/Pasted_image_20240603143419.png)
 
