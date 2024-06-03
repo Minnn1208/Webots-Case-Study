@@ -149,7 +149,7 @@ rosrun map_server map_saver -f map
 ![](./Image/Pasted_image_20240603151023.png)
 
 这样就能保存扫过的地图了
-推荐再重复一次从[开始扫图](##开始扫图)那里的步骤，会更加精准，以下是我扫完地图后的文件
+推荐再重复一次从[开始扫图](https://github.com/Minnn1208/Webots-Case-Study?tab=readme-ov-file#%E5%BC%80%E5%A7%8B%E6%89%AB%E5%9B%BE)那里的步骤，会更加精准，以下是我扫完地图后的文件
 
 ![](./Image/Pasted_image_20240603151313.png)
 
