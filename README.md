@@ -68,7 +68,7 @@ catkin_make
 
 ---
 # 启动
-![](./Image/Pasted_image_20240527160241.png)
+![](Image/Pasted_image_20240527160241.png)
 
 打开三个终端
 每个终端都要先执行一句
