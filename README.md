@@ -112,8 +112,11 @@ roscore这里的source ./devel/setup.bash可以省略
 	我的地图名字叫room.wbt，你们命名随意记住啥名字就好
 3. 更换webots打开的默认地图
 	![](Image/Pasted_image_20240603145004.png)
+	
 	打开launch文件夹下的webots.launch文件
-	![](Image/Pasted_image_20240603145232.png)这里就替换你的地图文件名就好
+	![](Image/Pasted_image_20240603145232.png)
+	
+	这里就替换你的地图文件名就好
 
 ## 开始扫图
 跟前面的启动差不多，我在这里再重复一遍吧
